@@ -65,4 +65,3 @@ The model was evaluated using **Macro F1-Score** to ensure balanced performance 
 | **Macro F1-Score** | **\~94%** | Indicates high reliability across minority and majority classes. |
 | **Accuracy** | **High** | Consistent across 5 folds. |
 
-*(Place your Loss Curves or Confusion Matrix screenshot here)*
